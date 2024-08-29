@@ -1,18 +1,51 @@
 [
   {
-    "name": "Webp Image",
+    "name": "His Children will have a place for refuge",
     "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/53787435501_fbc6f32b76_o.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/53787435501_fbc6f32b76_o.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "Unknown",
-    "collections": "landscapes"
+    "url": "file:///android_asset//wallpapers/6.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Proverbs,It is Written"
   },
   {
-    "name": "ShotA",
+    "name": "I am who I am",
     "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/53706227296_28c7f6b977_o.jpg",
-    "collections": "featured,landscapes,people"
+    "url": "file:///android_asset//wallpapers/1.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Exodus,It is Written"
+  },
+  {
+    "name": "Great is your Faithfulness",
+    "author": "It is Written",
+    "url": "file:///android_asset//wallpapers/2.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Lamentations,It is Written"
+  },
+  {
+    "name": "He is Good, He is God",
+    "author": "It is Written",
+    "url": "file:///android_asset//wallpapers/3.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Chronicles,It is Written"
+  },
+  {
+    "name": "I am with you always",
+    "author": "It is Written",
+    "url": "file:///android_asset//wallpapers/4.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Matthew,Christ,It is Written"
+  },
+  {
+    "name": "I will comfort you",
+    "author": "It is Written",
+    "url": "file:///android_asset//wallpapers/5.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Isaiah,It is Written"
   },
   {
     "name": "ShotB",
@@ -136,21 +169,5 @@
     "dimensions": "3200x2560",
     "copyright": "Free (do whatever you want)",
     "collections": "new year, new"
-  },
-  {
-    "name": "Annie from Assets",
-    "author": "unsplash",
-    "url": "file:///android_asset/annie.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "assets"
-  },
-  {
-    "name": "Neom from Assets",
-    "author": "unsplash",
-    "url": "file:///android_asset/wallpapers/neom.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "assets"
   }
 ]
