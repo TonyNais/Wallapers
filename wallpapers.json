@@ -8,6 +8,22 @@
     "collections": "Proverbs,It is Written"
   },
   {
+    "name": "He is Good, He is God",
+    "author": "It is Written",
+    "url": "file:///android_asset//wallpapers/3.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Chronicles,It is Written"
+  },
+  {
+    "name": "I will comfort you",
+    "author": "It is Written",
+    "url": "file:///android_asset//wallpapers/5.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Isaiah,It is Written"
+  },
+  {
     "name": "I am who I am",
     "author": "It is Written",
     "url": "file:///android_asset//wallpapers/1.webp",
@@ -24,28 +40,12 @@
     "collections": "Lamentations,It is Written"
   },
   {
-    "name": "He is Good, He is God",
-    "author": "It is Written",
-    "url": "file:///android_asset//wallpapers/3.webp",
-    "dimensions": "2160x3840",
-    "copyright": "It is Written",
-    "collections": "Chronicles,It is Written"
-  },
-  {
     "name": "I am with you always",
     "author": "It is Written",
     "url": "file:///android_asset//wallpapers/4.webp",
     "dimensions": "2160x3840",
     "copyright": "It is Written",
     "collections": "Matthew,Christ,It is Written"
-  },
-  {
-    "name": "I will comfort you",
-    "author": "It is Written",
-    "url": "file:///android_asset//wallpapers/5.webp",
-    "dimensions": "2160x3840",
-    "copyright": "It is Written",
-    "collections": "Isaiah,It is Written"
   },
   {
     "name": "ShotB",
