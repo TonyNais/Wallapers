@@ -40,5 +40,15 @@
     "collections": "Matthew,Christ,It is Written",
     "featured": true,
     "downloadable": false
+  },
+  {
+    "name": "Give thanks to God",
+    "author": "It is Written",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/3.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Chronicles,Christ,It is Written",
+    "featured": true,
+    "downloadable": false
   }
 ]
