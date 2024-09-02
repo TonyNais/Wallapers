@@ -16,22 +16,6 @@
     "collections": "Isaiah,It is Written"
   },
   {
-    "name": "I am who I am",
-    "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001.webp",
-    "dimensions": "2160x3840",
-    "copyright": "It is Written",
-    "collections": "Exodus,It is Written"
-  },
-  {
-    "name": "Great is your Faithfulness",
-    "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/002.webp",
-    "dimensions": "2160x3840",
-    "copyright": "It is Written",
-    "collections": "Lamentations,It is Written"
-  },
-  {
     "name": "I am with you always",
     "author": "It is Written",
     "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/004.webp",
@@ -50,5 +34,21 @@
     "collections": "Chronicles,Christ,It is Written",
     "featured": true,
     "downloadable": false
+  },
+  {
+    "name": "I am who I am",
+    "author": "It is Written",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Exodus,It is Written"
+  },
+  {
+    "name": "Great is your Faithfulness",
+    "author": "It is Written",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/002.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Lamentations,It is Written"
   }
 ]
