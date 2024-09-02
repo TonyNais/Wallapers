@@ -2,7 +2,7 @@
   {
     "name": "His Children will have a place for refuge",
     "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/006.webp",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/006.webp",
     "dimensions": "2160x3840",
     "copyright": "It is Written",
     "collections": "Proverbs,It is Written"
@@ -10,7 +10,7 @@
   {
     "name": "I will comfort you",
     "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/005.webp",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/005.webp",
     "dimensions": "2160x3840",
     "copyright": "It is Written",
     "collections": "Isaiah,It is Written"
@@ -18,7 +18,7 @@
   {
     "name": "I am with you always",
     "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/004.webp",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/004.webp",
     "dimensions": "2160x3840",
     "copyright": "It is Written",
     "collections": "Matthew,Christ,It is Written",
@@ -28,7 +28,7 @@
   {
     "name": "Give thanks to God",
     "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/003.webp",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/003.webp",
     "dimensions": "2160x3840",
     "copyright": "It is Written",
     "collections": "Chronicles,Christ,It is Written",
@@ -38,7 +38,7 @@
   {
     "name": "I am who I am",
     "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001.webp",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/001.webp",
     "dimensions": "2160x3840",
     "copyright": "It is Written",
     "collections": "Exodus,It is Written"
@@ -46,9 +46,57 @@
   {
     "name": "Great is your Faithfulness",
     "author": "It is Written",
-    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/002.webp",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/002.webp",
     "dimensions": "2160x3840",
     "copyright": "It is Written",
     "collections": "Lamentations,It is Written"
+  },
+  {
+    "name": "The new has come",
+    "author": "It is Written",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/007.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Corintians,It is Written"
+  },
+  {
+    "name": "Friend vs Brother",
+    "author": "It is Written",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/008.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Proverbs,It is Written"
+  },
+  {
+    "name": "Abudance of Grace",
+    "author": "It is Written",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/009.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Romans,It is Written"
+  },
+  {
+    "name": "Love",
+    "author": "It is Written",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/010.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Corinthians,Love,It is Written"
+  },
+  {
+    "name": "Sin has no Dominion",
+    "author": "It is Written",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/011.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Romans,Sin,It is Written"
+  },
+  {
+    "name": "He overcame the Grace",
+    "author": "It is Written",
+    "url": "https://raw.githubusercontent.com/TonyNais/Wallapers/main/001/012.webp",
+    "dimensions": "2160x3840",
+    "copyright": "It is Written",
+    "collections": "Christ,It is Written"
   }
 ]
