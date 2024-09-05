@@ -1,0 +1,222 @@
+{
+    "quarterly": {
+        "title": "The Book of Mark",
+        "description": "From the beginning of Mark, the reader knows who Jesus is—the Messiah, the Son of God (Mark 1:1). However, people in the story struggle with understanding just who He is and what He is all about—except for those with demons. They know exactly who He is! The demons recognize Him and wither before His mighty words.",
+        "human_date": "July · August · September 2024",
+        "start_date": "29/06/2024",
+        "end_date": "27/09/2024",
+        "color_primary": "#605045",
+        "color_primary_dark": "#4B3C32",
+        "splash": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/splash.png",
+        "credits": [
+            {
+                "name": "Principal Contributor",
+                "value": "Thomas R. Shepherd"
+            },
+            {
+                "name": "Editor",
+                "value": "Clifford R. Goldstein"
+            },
+            {
+                "name": "Associate Editor",
+                "value": "Soraya Homayouni"
+            },
+            {
+                "name": "Publication Manager",
+                "value": "Lea Alexander Greve"
+            },
+            {
+                "name": "Editorial Assistant",
+                "value": "Sharon Thomas-Crews"
+            }
+        ],
+        "lang": "en",
+        "id": "2024-03",
+        "index": "en-2024-03",
+        "path": "en/quarterlies/2024-03",
+        "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03",
+        "introduction": "### The Gospel of Mark\n\nFrom the beginning of Mark, the reader knows who Jesus is—the Messiah, the Son of God (Mark 1:1). However, people in the story struggle with understanding just who He is and what He is all about—except for those with demons. They know exactly who He is! The demons recognize Him and wither before His mighty words.\n\nBut Jesus rather consistently commands that they keep this information quiet. Why this command for secrecy? Bible students for centuries have mulled over this question. It even has a name in scholarship—the Messianic Secret. Why would Jesus want to keep quiet about who He is?\n\nWhat will become clear in this journey through the Gospel of Mark is that not only is there secrecy in this book—there is also amazing revelation. It can rightly be called the Revelation/Secrecy Motif, and it runs through the Gospel of Mark. Although at the end of the book, all the secrecy is surprisingly replaced with a powerful revelation of Jesus.\n\nMark can be divided into two distinct sections—halves, actually. Chapter one through near the end of chapter eight deals with the crucial question, Who is Jesus? The answer is displayed in His teachings and His miracles. Again and again, He defeats evil, brings hope to the oppressed, and teaches compelling truths that cut to the heart of human existence. All this shouts to the reader that He is the Messiah, the Christ, whom the Hebrew people have long been awaiting.\n\nHowever, it is not until the middle of the book that someone not demon-possessed rightly declares who He is, thereby answering the question of the first half of the book about Christ’s identity. And that person is Peter, who  declares, “ ‘You are the Christ’ ” (Mark 8:29, ESV).\n\nThe second half of Mark, from Mark 8:31 to the end of the book, answers the other question, Where is Jesus going? The answer is shocking. He is going to the cross, the most ignominious and shameful manner of death in the Roman world. And it is such an unexpected destination for the Messiah, who His followers think will defeat Rome and establish Israel as a powerful nation.\n\nJesus’ bumbling disciples cannot fathom what He is saying. As the book progresses, they ask less and less about this painful topic, until finally they are reduced to silence in the face of the unwelcome truth.\n\nThings look gloomier and gloomier when Jesus confronts the religious leaders who plot His demise. The disciples, hopeful of a glorious kingdom, are shocked by an arrest, trial, and crucifixion that defies their expectations.\n\nBut through all this, Jesus keeps a clear and consistent message of where He is going and what it means that He will die and rise again. The bread and cup of the Last Supper will represent His body and blood (Mark 14:22–25), and He will become a ransom for many (Mark 10:45).\n\nThis does not mean He went to the cross in stoic calmness. In Gethsemane He struggles with the decision (Mark 14:32–42), and on the cross He cries out in despair, “ ‘My God, My God, why have You forsaken Me?’ ” (Mark 15:34, NKJV). The Gospel of Mark shows us the darkness that Christ experienced, the cost of our salvation. But the cross is not the end of the journey. After His resurrection, He plans a meeting with His disciples in Galilee—and, as we know, the Christian church began.\n\nIt is a most remarkable story, told in a terse, fast-moving style with little commentary from the Gospel writer himself. He simply tells the story, and then lets the words, the deeds, the actions speak for themselves regarding the life and death of Jesus of Nazareth.\n\n_Thomas R. Shepherd, PhD, DrPH, is senior research professor of New Testament at the Seventh-day Adventist Theological Seminary, Andrews University. He and his wife, Sherry, have two grown children and six grandchildren._",
+        "features": [
+            {
+                "name": "inside-story",
+                "title": "Inside Story",
+                "description": "Read inspiring mission stories from all over the world",
+                "image": "https://sabbath-school-stage.adventech.io/api/v1/images/features/feature_inside_story.png"
+            },
+            {
+                "name": "teacher-comments",
+                "title": "Teacher Comments",
+                "description": "Prepare to facilitate Sabbath School lesson discussion with this teacher's edition",
+                "image": "https://sabbath-school-stage.adventech.io/api/v1/images/features/feature_teacher_comments.png"
+            },
+            {
+                "name": "audio",
+                "title": "Audio",
+                "description": "Listen to the lesson on the go with the audio version",
+                "image": "https://sabbath-school-stage.adventech.io/api/v1/images/features/feature_audio.png"
+            },
+            {
+                "name": "video",
+                "title": "Video",
+                "description": "Watch the weekly lesson discussion to deepen your study",
+                "image": "https://sabbath-school-stage.adventech.io/api/v1/images/features/feature_video.png"
+            },
+            {
+                "name": "original-layout",
+                "title": "Original Layout",
+                "description": "Enhance your study of the lesson using original print layout with numerous annotation tools",
+                "image": "https://sabbath-school-stage.adventech.io/api/v1/images/features/feature_original_layout.png"
+            }
+        ],
+        "quarterly_group": {
+            "name": "Standard Adult",
+            "order": 100
+        },
+        "cover": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/cover.png"
+    },
+    "lessons": [
+        {
+            "title": "The Beginning of the Gospel",
+            "start_date": "29/06/2024",
+            "end_date": "05/07/2024",
+            "id": "01",
+            "index": "en-2024-03-01",
+            "path": "en/quarterlies/2024-03/lessons/01",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/01",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/01/cover.png"
+        },
+        {
+            "title": "A Day in the Ministry of Jesus",
+            "start_date": "06/07/2024",
+            "end_date": "12/07/2024",
+            "id": "02",
+            "index": "en-2024-03-02",
+            "path": "en/quarterlies/2024-03/lessons/02",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/02",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/02/cover.png"
+        },
+        {
+            "title": "Controversies",
+            "start_date": "13/07/2024",
+            "end_date": "19/07/2024",
+            "id": "03",
+            "index": "en-2024-03-03",
+            "path": "en/quarterlies/2024-03/lessons/03",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/03",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/03/cover.png"
+        },
+        {
+            "title": "Parables",
+            "start_date": "20/07/2024",
+            "end_date": "26/07/2024",
+            "id": "04",
+            "index": "en-2024-03-04",
+            "path": "en/quarterlies/2024-03/lessons/04",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/04",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/04/cover.png"
+        },
+        {
+            "title": "Miracles Around the Lake",
+            "start_date": "27/07/2024",
+            "end_date": "02/08/2024",
+            "id": "05",
+            "index": "en-2024-03-05",
+            "path": "en/quarterlies/2024-03/lessons/05",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/05",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/05/cover.png"
+        },
+        {
+            "title": "Inside Out",
+            "start_date": "03/08/2024",
+            "end_date": "09/08/2024",
+            "id": "06",
+            "index": "en-2024-03-06",
+            "path": "en/quarterlies/2024-03/lessons/06",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/06",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/06/cover.png"
+        },
+        {
+            "title": "Teaching Disciples: Part I",
+            "start_date": "10/08/2024",
+            "end_date": "16/08/2024",
+            "id": "07",
+            "index": "en-2024-03-07",
+            "path": "en/quarterlies/2024-03/lessons/07",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/07",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/07/cover.png"
+        },
+        {
+            "title": "Teaching Disciples: Part II",
+            "start_date": "17/08/2024",
+            "end_date": "23/08/2024",
+            "id": "08",
+            "index": "en-2024-03-08",
+            "path": "en/quarterlies/2024-03/lessons/08",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/08",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/08/cover.png"
+        },
+        {
+            "title": "Jerusalem Controversies",
+            "start_date": "24/08/2024",
+            "end_date": "30/08/2024",
+            "id": "09",
+            "index": "en-2024-03-09",
+            "path": "en/quarterlies/2024-03/lessons/09",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/09",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/09/cover.png"
+        },
+        {
+            "title": "The Last Days",
+            "start_date": "31/08/2024",
+            "end_date": "06/09/2024",
+            "id": "10",
+            "index": "en-2024-03-10",
+            "path": "en/quarterlies/2024-03/lessons/10",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/10/cover.png"
+        },
+        {
+            "title": "Taken and Tried",
+            "start_date": "07/09/2024",
+            "end_date": "13/09/2024",
+            "id": "11",
+            "index": "en-2024-03-11",
+            "path": "en/quarterlies/2024-03/lessons/11",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/11",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/11/cover.png"
+        },
+        {
+            "title": "Tried and Crucified",
+            "start_date": "14/09/2024",
+            "end_date": "20/09/2024",
+            "id": "12",
+            "index": "en-2024-03-12",
+            "path": "en/quarterlies/2024-03/lessons/12",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/12",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/12/cover.png"
+        },
+        {
+            "title": "The Risen Lord",
+            "start_date": "21/09/2024",
+            "end_date": "27/09/2024",
+            "id": "13",
+            "index": "en-2024-03-13",
+            "path": "en/quarterlies/2024-03/lessons/13",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/13",
+            "pdfOnly": false,
+            "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/13/cover.png"
+        }
+    ]
+}

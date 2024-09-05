@@ -1,0 +1,115 @@
+{
+    "lesson": {
+        "title": "The Last Days",
+        "start_date": "31/08/2024",
+        "end_date": "06/09/2024",
+        "id": "10",
+        "index": "en-2024-03-10",
+        "path": "en/quarterlies/2024-03/lessons/10",
+        "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10",
+        "pdfOnly": false,
+        "cover": "https://sabbath-school-stage.adventech.io/api/v2/images/global/2024-03/10/cover.png"
+    },
+    "days": [
+        {
+            "title": "The Last Days",
+            "date": "31/08/2024",
+            "id": "01",
+            "index": "en-2024-03-10-01",
+            "path": "en/quarterlies/2024-03/lessons/10/days/01",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/01",
+            "read_path": "en/quarterlies/2024-03/lessons/10/days/01/read",
+            "full_read_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/01/read"
+        },
+        {
+            "title": "Two Little Coins in the Offering",
+            "date": "01/09/2024",
+            "id": "02",
+            "index": "en-2024-03-10-02",
+            "path": "en/quarterlies/2024-03/lessons/10/days/02",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/02",
+            "read_path": "en/quarterlies/2024-03/lessons/10/days/02/read",
+            "full_read_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/02/read"
+        },
+        {
+            "title": "Not One Stone on Another",
+            "date": "02/09/2024",
+            "id": "03",
+            "index": "en-2024-03-10-03",
+            "path": "en/quarterlies/2024-03/lessons/10/days/03",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/03",
+            "read_path": "en/quarterlies/2024-03/lessons/10/days/03/read",
+            "full_read_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/03/read"
+        },
+        {
+            "title": "The Abomination of Desolation",
+            "date": "03/09/2024",
+            "id": "04",
+            "index": "en-2024-03-10-04",
+            "path": "en/quarterlies/2024-03/lessons/10/days/04",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/04",
+            "read_path": "en/quarterlies/2024-03/lessons/10/days/04/read",
+            "full_read_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/04/read"
+        },
+        {
+            "title": "The Great Tribulation",
+            "date": "04/09/2024",
+            "id": "05",
+            "index": "en-2024-03-10-05",
+            "path": "en/quarterlies/2024-03/lessons/10/days/05",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/05",
+            "read_path": "en/quarterlies/2024-03/lessons/10/days/05/read",
+            "full_read_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/05/read"
+        },
+        {
+            "title": "The Coming of the Son of Man",
+            "date": "05/09/2024",
+            "id": "06",
+            "index": "en-2024-03-10-06",
+            "path": "en/quarterlies/2024-03/lessons/10/days/06",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/06",
+            "read_path": "en/quarterlies/2024-03/lessons/10/days/06/read",
+            "full_read_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/06/read"
+        },
+        {
+            "title": "Further Thought",
+            "date": "06/09/2024",
+            "id": "07",
+            "index": "en-2024-03-10-07",
+            "path": "en/quarterlies/2024-03/lessons/10/days/07",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/07",
+            "read_path": "en/quarterlies/2024-03/lessons/10/days/07/read",
+            "full_read_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/07/read"
+        },
+        {
+            "title": "Inside Story",
+            "date": "06/09/2024",
+            "id": "inside-story",
+            "index": "en-2024-03-10-inside-story",
+            "path": "en/quarterlies/2024-03/lessons/10/days/inside-story",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/inside-story",
+            "read_path": "en/quarterlies/2024-03/lessons/10/days/inside-story/read",
+            "full_read_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/inside-story/read"
+        },
+        {
+            "title": "Teacher Comments",
+            "date": "06/09/2024",
+            "id": "teacher-comments",
+            "index": "en-2024-03-10-teacher-comments",
+            "path": "en/quarterlies/2024-03/lessons/10/days/teacher-comments",
+            "full_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/teacher-comments",
+            "read_path": "en/quarterlies/2024-03/lessons/10/days/teacher-comments/read",
+            "full_read_path": "https://sabbath-school-stage.adventech.io/api/v2/en/quarterlies/2024-03/lessons/10/days/teacher-comments/read"
+        }
+    ],
+    "pdfs": [
+        {
+            "src": "https://sabbath-school-pdf-stage.adventech.io/pdf/en/2024-03/d95fe91c7e4113a4018cd448117af1fa28cca95e899a7214507c9f7b19986298/d95fe91c7e4113a4018cd448117af1fa28cca95e899a7214507c9f7b19986298.pdf",
+            "target": "en/2024-03/10",
+            "id": "d95fe91c7e4113a4018cd448117af1fa28cca95e899a7214507c9f7b19986298",
+            "title": "The Last Days",
+            "start_date": "31/08/2024",
+            "end_date": "06/09/2024"
+        }
+    ]
+}
